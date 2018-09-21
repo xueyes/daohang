@@ -1,7 +1,7 @@
 
 
 ## 演示地址
-https://github.com/xueyes/daohang
+https://xueyes.github.io/daohang
 
 ## 提示
 
