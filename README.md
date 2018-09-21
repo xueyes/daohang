@@ -1,10 +1,9 @@
 
 
-## 演示图
-![](./img/nav.gif)
+## 演示地址
+https://github.com/xueyes/daohang
 
 ## 提示
-开始使用Vue+VueCli3+VueRouter+MongoDB**重写**导航站，更新日志在新的分支下，到时候完工再合并。
 
 你如果有兴趣可点击star或者watch长期关注，如果你有问题可在issues下留言，谢谢！
 
